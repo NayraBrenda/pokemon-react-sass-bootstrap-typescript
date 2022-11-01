@@ -24,19 +24,19 @@
 
 -------------------------------------------------
 
-#### ⚪ Se não houver preenchimento de nenhum caractere e o usuário clicar no botão de busca, uma mensagem de erro é exibida. 
+#### ⚪ Se não houver preenchimento de nenhum caractere e aconteça o click no botão de busca, uma mensagem de erro é exibida. 
 
 ![image3](https://user-images.githubusercontent.com/107960903/199256290-d3505430-9498-44cd-9693-a3162beec6a4.jpg)
 
 -------------------------------------------------
 
-#### ⚪ Havendo o preenchimento de um cep inválido, ou algum contratempo na chamada da API, também é exibida uma mensagem de erro ao usuário.  
+#### ⚪ Havendo o preenchimento de um CEP inválido ou algum contratempo na chamada da API, também é exibida uma mensagem de erro ao usuário.  
 
 ![image4](https://user-images.githubusercontent.com/107960903/199257560-37f3b0f7-c96e-4562-8a98-139aceee9f61.jpg)
 
 -------------------------------------------------
 
-#### ⚪ Exibição de componente react loading  
+#### ⚪ Exibição de componente react loading. 
 
 ![image5](https://user-images.githubusercontent.com/107960903/199258455-878ab3b0-acb2-470c-9a70-537384696bf0.jpg)
 
