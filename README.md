@@ -36,7 +36,7 @@
 
 -------------------------------------------------
 
-#### ⚪ Exibição de componente react loading. 
+#### ⚪ Exibição de componente react loading na busca dos dados. 
 
 ![image5](https://user-images.githubusercontent.com/107960903/199258455-878ab3b0-acb2-470c-9a70-537384696bf0.jpg)
 
