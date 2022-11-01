@@ -1,46 +1,47 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-------------------------------------------------
 
-## Available Scripts
+### Este projeto é uma aplicação onde o usuário pode buscar um endereço através do CEP. 🙂
+#### Utilizada uma API pública
 
-In the project directory, you can run:
+#### Principais tecnologias utilizadas: React, Sass, Bootstrap e TypeScript. 
+#### Para realizar interação com API foi utilizado o Axios. 
+-------------------------------------------------
 
-### `npm start`
+### Interface inicial do app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### ⚪ Utilizando componentes react bootstrap como Button, Form e Container. A input tem uma limitação máxima de 8 caracteres.  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![image1](https://user-images.githubusercontent.com/107960903/199250735-d084354b-11db-4cf7-8d54-247e384e1f1a.jpg)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-------------------------------------------------
 
-### `npm run build`
+#### ⚪ Após preenchimento de um CEP válido, os dados são exibidos dentro de um novo componente. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image2](https://user-images.githubusercontent.com/107960903/199254468-a28616bf-43bb-436d-9b3c-c794c505d270.jpg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-------------------------------------------------
 
-### `npm run eject`
+#### ⚪ Se não houver preenchimento de nenhum caractere e o usuário clicar no botão de busca, uma mensagem de erro é exibida. 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![image3](https://user-images.githubusercontent.com/107960903/199256290-d3505430-9498-44cd-9693-a3162beec6a4.jpg)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-------------------------------------------------
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### ⚪ Havendo o preenchimento de um cep inválido, ou algum contratempo na chamada da API, também é exibida uma mensagem de erro ao usuário.  
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![image4](https://user-images.githubusercontent.com/107960903/199257560-37f3b0f7-c96e-4562-8a98-139aceee9f61.jpg)
 
-## Learn More
+-------------------------------------------------
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### ⚪ Exibição de componente react loading  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image5](https://user-images.githubusercontent.com/107960903/199258455-878ab3b0-acb2-470c-9a70-537384696bf0.jpg)
+
+
+-------------------------------------------------
+
+## **A aplicação está disponível neste [link](http://tribodigital.com.br/nayra/buscadorcep/)** 🚀
+
