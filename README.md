@@ -2,10 +2,10 @@
 -------------------------------------------------
 
 ### Este projeto é uma aplicação onde o usuário pode buscar um endereço através do CEP. 🙂
-#### Utilizada uma API pública
+#### 1. Utilizada uma API pública
 
-#### Principais tecnologias utilizadas: React, Sass, Bootstrap e TypeScript. 
-#### Para realizar interação com API foi utilizado o Axios. 
+#### 2. Principais tecnologias utilizadas: React, Sass, Bootstrap e TypeScript. 
+#### 3. Para realizar interação com API foi utilizado o Axios. 
 -------------------------------------------------
 
 ### Interface inicial do app
