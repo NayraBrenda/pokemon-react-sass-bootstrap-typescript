@@ -22,7 +22,7 @@
 
 -------------------------------------------------
 
-### ⚪ A selecionar o movimento desejado, é exibido os detalhes de força e precisão do movimento. 
+### ⚪ Ao selecionar o movimento desejado, é exibido os detalhes de força e precisão do movimento. 
 
 
 ![image3](https://user-images.githubusercontent.com/107960903/199777129-44694119-1c02-4441-a726-68d53aa4f45f.jpg)
